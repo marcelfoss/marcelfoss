@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcello42
 currently studying towards my Business Informatics Degree.
 - 👀 I’m interested in Linux, FreeBSD, FOSS, Data.
-- 🌱 I’m currently learning C, Java, Python
+- 🌱 I’m currently learning C, Java, Python.
 - 💞️ I’m looking for projects where I can participate.
 - 📫 How to reach me: hit me a dm.
 
