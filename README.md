@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marcello42
-- 👀 I’m interested in Linux, FreeBSD, FOSS, Data.
-- 🌱 I work as a Consultant in Bussiness Intelligence for vistal.io
+- 👋 Hi, I’m @marcelfoss
+- 👀 I’m interested in Linux, FOSS, Data and Software Development.
+- 🌱 I work as a Consultant in Bussiness Intelligence for @vistaldotio
 - 💞️ I’m looking for projects where I can participate.
 - 📫 How to reach me: hit me a dm.
 
